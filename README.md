@@ -3,7 +3,7 @@ It's a game developed with gdevelop which you can play in your pc.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-How to run this game?\
+How to run this game?
 
 STEPS:
 
